@@ -1,0 +1,20 @@
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\catalog.csv
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\Learning Microsoft Cognitive Services.exe.config
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\Learning Microsoft Cognitive Services.exe
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\Learning Microsoft Cognitive Services.pdb
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\Newtonsoft.Json.dll
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\bin\Debug\Newtonsoft.Json.xml
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Chapter7.csprojAssemblyReference.cache
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\View\MainView.g.cs
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\App.g.cs
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services_Content.g.cs
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services_MarkupCompile.cache
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services_MarkupCompile.lref
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\View\MainView.baml
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services.g.resources
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Chapter7.Properties.Resources.resources
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Chapter7.csproj.GenerateResource.cache
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Chapter7.csproj.CopyComplete
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services.exe
+C:\OD\OneDrive\DEV\GitHub\learning-azure-cognitive-services\Learning Azure Cognitive Services\Chapter7\obj\Debug\Learning Microsoft Cognitive Services.pdb
